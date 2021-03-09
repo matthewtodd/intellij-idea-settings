@@ -1,0 +1,50 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="removedPositive">
+      <list>
+        <option value="at com.intellij.openapi.util.RecursionGuard" />
+        <option value="at com.intellij.testFramework.PlatformTestCase" />
+        <option value="at com.intellij.openapi.application.WriteAction." />
+        <option value="at com.intellij.openapi.application.impl.LaterInvocator" />
+        <option value="at com.intellij.testFramework.LightPlatformTestCase" />
+        <option value="at com.intellij.openapi.util.RecursionManager" />
+        <option value="at com.intellij.testFramework.HeavyPlatformTestCase" />
+        <option value="at com.intellij.testFramework.fixtures.impl.CodeInsightTestFixtureImpl$" />
+        <option value="at com.intellij.openapi.application.impl.ApplicationImpl$1.call(" />
+        <option value="at com.intellij.testFramework.fixtures.impl.CodeInsightTestFixtureImpl.checkResult" />
+        <option value="at com.intellij.testFramework.fixtures.impl.CodeInsightTestFixtureImpl.lambda$" />
+        <option value="at com.intellij.testFramework.fixtures.impl.CodeInsightTestFixtureImpl.access$" />
+        <option value="at com.intellij.openapi.application.RunResult.run(" />
+        <option value="at com.intellij.codeWithMe.ClientId$Companion.withClientId" />
+        <option value="at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(" />
+        <option value="at com.intellij.openapi.application.impl.FlushQueue" />
+        <option value="at com.intellij.psi.impl.source.PostprocessReformattingAspect." />
+        <option value="at com.intellij.testFramework.UsefulTestCase" />
+        <option value="at com.intellij.util.RunnableCallable.call(" />
+        <option value="at com.intellij.openapi.progress.impl.CoreProgressManager" />
+        <option value="at com.intellij.openapi.application.TransactionGuardImpl" />
+        <option value="at com.intellij.testFramework.EdtTestUtil" />
+        <option value="at com.intellij.testFramework.EditorActionTestCase" />
+        <option value="at com.intellij.openapi.progress.impl.ProgressManagerImpl" />
+        <option value="at com.intellij.testFramework.propertyBased." />
+        <option value="at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(" />
+        <option value="at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(" />
+        <option value="at com.intellij.codeWithMe.ClientId.withClientId" />
+        <option value="at com.intellij.testFramework.fixtures.impl.CodeInsightTestFixtureImpl.collectAndCheckHighlighting(" />
+        <option value="at com.intellij.testFramework.EdtTestUtilKt" />
+        <option value="at com.intellij.testFramework.LightPlatformCodeInsightTestCase" />
+        <option value="at com.intellij.testFramework.ExpectedHighlightingData" />
+        <option value="at com.intellij.codeWithMe.ClientId$Companion$withClientId$1" />
+        <option value="at org.jetbrains.jetCheck." />
+        <option value="at com.intellij.openapi.application.ReadAction." />
+        <option value="at com.intellij.ide.IdeEventQueue" />
+        <option value="at com.intellij.openapi.progress.impl.ProgressRunner" />
+        <option value="at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(" />
+        <option value="at com.intellij.testFramework.EdtTestUtil$Companion$" />
+        <option value="at com.intellij.openapi.command.WriteCommandAction" />
+        <option value="at com.intellij.util.messages.impl.MessageBus" />
+        <option value="at com.intellij.testFramework.fixtures.CodeInsightTestFixture$" />
+      </list>
+    </option>
+  </component>
+</application>
